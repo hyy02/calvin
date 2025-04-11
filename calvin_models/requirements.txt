@@ -11,7 +11,7 @@ setuptools==57.5.0
 pyhash
 pytorch-lightning==1.8.6
 lightning_lite
-torch==1.13.1+cu113
+torch==1.12.1+cu113
 torchvision
 MulticoreTSNE
 gitpython
