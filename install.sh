@@ -8,4 +8,4 @@ pip install -e .
 cd ..
 pip install -e .
 cd ../calvin_models
-pip install -e .  -f https://download.pytorch.org/whl/torch_stable.html
+pip install -e . -f https://download.pytorch.org/whl/torch_stable.html
